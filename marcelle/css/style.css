@@ -1,0 +1,44 @@
+body {
+    line-height: 1.6;
+    padding-top: 76px;
+}
+
+.bg-primary {
+    background-color: #2C3E50 !important;
+}
+
+.bg-secondary {
+    background-color: #34495E !important;
+}
+
+.btn-success {
+    background-color: #27AE60;
+    border-color: #27AE60;
+}
+
+.btn-success:hover {
+    background-color: #229954;
+    border-color: #229954;
+}
+
+.text-primary {
+    color: #2C3E50 !important;
+}
+
+.text-success {
+    color: #27AE60 !important;
+}
+
+.text-info {
+    color: #3498DB !important;
+}
+
+.layout-sobre .col-md-6 img {
+    height: 400px !important;
+    width: 100% !important;
+}
+
+.circle {
+    width: 80px !important;
+    height: 80px !important;
+}
